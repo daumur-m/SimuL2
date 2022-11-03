@@ -1,16 +1,14 @@
-Ce programme va nous permettre de déterminer une approximation de pi à
-l'aide des méthodes de Monte Carlo. ( Ou statistical random sampling )
-Afin de générer le programme, placez vous tout d'abord dans le bon
-répertoire et écrivez dans votre terminal :
+This program will calculate an approximation of Pi using Monte Carlo methods 
+(or statistical random sampling). In order to build the application, first 
+place yourself in the right directory and type in your terminal :
 
 --	make simuPi
 
-Cela aura pour but de compiler notre code en un fichier exécutable que
-vous pourrez appeler en tapant :
+This will compile the code into an executable file that you can call by typing :
 
 --	./simuPi
 
-Le programme ainsi lancé affichera alors pour les paramètres de bases :
+The program will then present you the basic settings:
 
 			---		---
 			
